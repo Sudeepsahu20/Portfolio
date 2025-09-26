@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@keyframes twinkling {
+  0% { background-position:0 0; }
+  100% { background-position:-10000px 5000px; }
+}
+
+.animate-[twinkling_20s_linear_infinite] {
+  animation: twinkling 20s linear infinite;
+}
