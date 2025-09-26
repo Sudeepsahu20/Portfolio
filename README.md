@@ -44,7 +44,7 @@ Currently, I am focusing on **Full-Stack Development (MERN)** and improving my *
 ## 📫 Contact Me
 
 I’m open to opportunities and collaborations!  
-- **Email:** your-email@example.com  
+- **Email:** sudeepsahu2027@gmail.com  
 - **LinkedIn:** [Sudeep Sahu](https://www.linkedin.com/in/sudeep-sahu-035a8328b/)  
 - **GitHub:** [Sudeepsahu20](https://github.com/Sudeepsahu20)  
 - **Instagram:** [sudeep_sahu2027](https://instagram.com/sudeep_sahu2027)
@@ -56,3 +56,13 @@ I’m open to opportunities and collaborations!
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sudeepsahu20/Portfolio.git
+
+   cd Portfolio
+2.Install dependencies:
+
+cd portfolio
+npm install
+
+3.Start the development server:
+
+npm run dev
