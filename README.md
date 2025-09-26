@@ -1,17 +1,58 @@
-<<<<<<< HEAD
-# React + Vite
+# Sudeep Sahu – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! I am a passionate **Full Stack Developer** skilled in building modern, responsive web applications using the **MERN stack**. I love solving problems, creating impactful projects, and continuously improving my craft.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About Me
 
-## Expanding the ESLint configuration
+Hi, I’m **Sudeep Sahu**, a B.Tech (CSE-AI) student at BIT Durg.  
+I enjoy building web applications that bring ideas to life — from small apps to full-fledged platforms.  
+Currently, I am focusing on **Full-Stack Development (MERN)** and improving my **Data Structures & Algorithms** skills.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Portfolio
-"I’m a passionate Full Stack Developer skilled in building modern, responsive web applications using the MERN stack. I love solving problems, creating impactful projects, and continuously improving my craft."
->>>>>>> 3c7e28e3e7cb2d7469dcadb4aa2ee54923d0364f
+---
+
+## 💻 Technologies & Skills
+
+- **Frontend:** React, HTML, CSS, TailwindCSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other Tools:** Git, GitHub, EmailJS, Vercel  
+- **Concepts:** Responsive Design, REST APIs, Form Handling, Component-based Architecture
+
+---
+
+## 📂 Projects
+
+### 1. Uneek Store
+- **Description:** An elegant e-commerce platform to explore and shop unique T-shirts. Features product browsing, cart & checkout functionality.  
+- **Tech Stack:** React, Node.js, Express, MongoDB  
+- **Live Demo:** *(Add link after deploying)*
+
+### 2. Wanderlust
+- **Description:** A travel booking platform with CRUD operations, authentication, and dynamic routes.  
+- **Tech Stack:** Node.js, Express, MongoDB, EJS  
+- **Live Demo:** *(Add link after deploying)*
+
+### 3. Weather App
+- **Description:** Fetches real-time weather data for any location using public APIs.  
+- **Tech Stack:** HTML, CSS, JavaScript, OpenWeather API  
+- **Live Demo:** *(Add link after deploying)*
+
+---
+
+## 📫 Contact Me
+
+I’m open to opportunities and collaborations!  
+- **Email:** your-email@example.com  
+- **LinkedIn:** [Sudeep Sahu](https://www.linkedin.com/in/sudeep-sahu-035a8328b/)  
+- **GitHub:** [Sudeepsahu20](https://github.com/Sudeepsahu20)  
+- **Instagram:** [sudeep_sahu2027](https://instagram.com/sudeep_sahu2027)
+
+---
+
+## 🛠 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sudeepsahu20/Portfolio.git
